@@ -5,5 +5,7 @@ In this project I customized the video controls and designed them manually. I fo
 Special topics covered:
 
 Video node controls
+
 Fullscreen handling
+
 CSS variables
