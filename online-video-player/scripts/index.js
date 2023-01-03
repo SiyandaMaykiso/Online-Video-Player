@@ -6,7 +6,7 @@ const video = new Video({
     posterSrc: "static/flowing-water-fountain-poster.jpg",
     absolute: true,
     hideControlsOnPlay: true,
-    progressColor: "white"
+    progressColor: "cream"
 });
 
 console.log(video);
