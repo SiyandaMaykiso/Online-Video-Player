@@ -4,7 +4,7 @@ const defaultOptions = {
     posterSrc: null,
     absolute: false,
     hideControlsOnPlay: true,
-    progressColor: "red"
+    progressColor: "blue"
 };
 
 function Video(options = defaultOptions) {
