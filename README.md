@@ -10,3 +10,6 @@ Fullscreen handling
 
 CSS variables
 
+The Published Site is Below:
+
+https://siyandamaykiso.github.io/Online-Video-Player/
